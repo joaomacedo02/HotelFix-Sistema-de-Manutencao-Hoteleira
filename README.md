@@ -31,9 +31,6 @@ O HotelFix permite uma comunicação rápida entre **hóspedes, gerentes de seto
 
 HTML5 · CSS3 · JavaScript · GitHub Pages
 
-## ▶️ Como rodar
-
-Baixe o repositório e abra o `index.html` no navegador, ou acesse o site pelo link acima.
 
 ## 👥 Equipe
 
